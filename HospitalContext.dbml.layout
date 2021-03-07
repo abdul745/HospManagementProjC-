@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="HospitalContext">
+  <DataContextMoniker Name="/HospitalContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="16949970-f9d3-436f-8d17-97bf793a6c72" absoluteBounds="0.5, 0.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/HospitalContextDataContext/AuthenticationTBL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e107c42f-ee90-4c8e-88ef-9d56bc9fe627" absoluteBounds="0.51499999999999968, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e1e16ec3-09b1-4926-8834-e704a7091070" absoluteBounds="2.875, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HospitalContextDataContext/StaffTBL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="359b4282-4e19-4959-8471-67262815993d" absoluteBounds="2.8899999999999997, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8f5ca8f0-c59e-443a-baf3-f4c0c66204ac" absoluteBounds="8.75, 2.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HospitalContextDataContext/AppointmentsTBL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="670ef10f-d358-4df8-bfa3-404242b1ebcc" absoluteBounds="8.765, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9008af2d-3aa8-4ca9-b12a-420d861c517a" absoluteBounds="5.625, 1.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/HospitalContextDataContext/AllRegistration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="595f4cba-ed96-4fd5-9509-3d09963ae74b" absoluteBounds="5.64, 2.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ed535f30-69d4-4b3b-9907-07ab32216174" absoluteBounds="3, 2.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/HospitalContextDataContext/EmergencyTBL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f6a03bd-0723-4d6f-b77b-365538e2dc54" absoluteBounds="3.0149999999999997, 3.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
